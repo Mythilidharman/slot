@@ -8,7 +8,7 @@ To Write a html webpage page to display your timetable.
 create a simple table using table tag
 
 ### STEP 2
-Add header row using th tag
+Add header row using the tag
 
 ### STEP 3
 Add your timetable
@@ -117,11 +117,11 @@ Execute the program
 </html>
 ```
 
-# OUPUT
-![OUTPUT](http://mythili.student.saveetha.in:8000/static/images/out.png?raw=true)
+# OUTPUT
+![OUTPUT](./out.png)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://mythili.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![HTML VALIDATOR](./valid.png)
 
 # RESULT
-The program for creating slot time table is completed successfully
+The program for creating slot time table is completed successfully.
